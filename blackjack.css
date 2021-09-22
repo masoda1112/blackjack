@@ -1,0 +1,24 @@
+/* cssを記述しましょう。 */
+.bg-green {
+  background-color: #1D4434;
+}
+
+.rem3 {
+  font-size: 3rem;
+}
+
+.vh-100 {
+  height:100vh;
+}
+
+.hide-dom{
+  display: none;
+}
+.input-number{
+  width: 50px;
+}
+
+#betting-btn:hover{
+  cursor: pointer;
+  opacity: 0.7;
+}
